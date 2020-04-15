@@ -1,4 +1,16 @@
-# Cross-linguality
+<p align="center"><img width=50% src="https://github.com/TBFY/general/blob/master/figures/tbfy-logo.png"></p>
+<p align="center"><img width=40% src="https://github.com/TBFY/crosslinguality/blob/master/logo.png"></p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Docker](https://img.shields.io/badge/python-v3.7-blue.svg)
+[![Build Status](https://travis-ci.org/TBFY/crosslinguality.svg?branch=master)](https://travis-ci.org/TBFY/crosslinguality)
+[![](https://jitpack.io/v/TBFY/crosslinguality.svg)](https://jitpack.io/#TBFY/crosslinguality)
+[![GitHub Issues](https://img.shields.io/github/issues/TBFY/crosslinguality.svg)](https://github.com/TBFY/crosslinguality/issues)
+[![License](https://img.shields.io/badge/license-Apache2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![DOI](https://zenodo.org/badge/167214336.svg)](https://zenodo.org/badge/latestdoi/167214336)
+
+## Basic Overview
+
 This repository is focused on the work done towards automatic real-time monitoring and analysis of public spending information published in different languages.
 
 ## API service description
